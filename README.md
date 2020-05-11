@@ -18,7 +18,7 @@ before, afterSave handlers, beforeFind, beforeLoad
 
 ###### Others
 tiers , extensions , assetManager , mails , widgets , db-independent migrations , overriding in configs , 
-CRUDgen , search models , overriding extensions , overriding core
+CRUDgen , search models , overriding extensions , overriding core, auto initiation of environments
 
 
 ###### Framework
