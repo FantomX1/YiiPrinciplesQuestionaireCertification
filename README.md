@@ -15,6 +15,8 @@ modules - configs , components
 
 before, afterSave handlers, beforeFind, beforeLoad
 
+dataprovider
+
 
 ###### Others
 tiers , extensions , assetManager , mails , widgets , db-independent migrations , overriding in configs , 
